@@ -1,0 +1,135 @@
+Due Mar 13
+Project: Laying it All Out
+
+Joshua Law
+7:43 AM
+
+Laying It All Out
+Google Docs
+
+index.html
+HTML
+
+style.css
+Style Sheet
+Your work
+Assigned
+Files you add or create can be viewed and edited by your teacher
+Mark as done or attach work to turn in
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+.layout-1{
+    background-color: #e3e3e3;
+
+}
+
+.layout-2{
+    background-color: #e3e3e3;
+
+}
+
+.layout-3{
+    background-color: #e3e3e3;
+
+}
+
+.layout-1 #topHeader{
+    background-color:red;
+
+}
+
+.layout-1 nav{
+    background-color:blue;
+
+}
+
+.layout-1 section{
+    background-color:green;
+}
+
+.layout-1 #sectionHeader{
+    background-color:yellow;
+ }
+
+.layout-1 article{
+    background-color:orange;
+}
+.layout-1 aside{
+    background-color:purple;
+}
+
+.layout-1 aside a{
+    background-color:white;
+}
+
+.layout-1 footer{
+}
+
+#topHeader2{
+    background-color:red;
+
+}
+.layout-2 nav{
+    background-color:blue;
+
+}
+
+.layout-2 nav a{
+    background-color:white;
+}
+
+#content{
+    background-color:green;
+    height:20px;
+}
+
+.article2{
+    background-color:yellow;
+}
+
+.aside-content{
+    background-color:purple;
+    height:20px;
+
+}
+
+.aside-info{
+    background-color:aqua;
+}
+
+.layout-2 img{
+    background-color: aqua;
+}
+
+.layout-2 footer{
+}
+
+.layout-3 header{
+    background-color:red;
+}
+
+#sectionHeader3{
+    background-color:blue;
+}
+
+.layout-3 nav{
+    background-color:yellow;
+}
+
+.layout-3 section{
+    background-color:orange;
+}
+
+.layout-3 aside{
+    background-color:purple;
+}
+
+#pageFooter{
+    background-color:green;
+}
