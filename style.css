@@ -26,7 +26,7 @@ Mark as done or attach work to turn in
 
 .layout-1{
     background-color: #e3e3e3;
-
+    
 }
 
 .layout-2{
@@ -41,11 +41,15 @@ Mark as done or attach work to turn in
 
 .layout-1 #topHeader{
     background-color:red;
-
+    height:50px;
+    text-align: center;
+    font-size:20px;
 }
 
 .layout-1 nav{
     background-color:blue;
+    height:20px;
+    text-align: center;
 
 }
 
@@ -55,28 +59,48 @@ Mark as done or attach work to turn in
 
 .layout-1 #sectionHeader{
     background-color:yellow;
+    float:left;
+    width:70%;
+    height:35px;
  }
 
 .layout-1 article{
     background-color:orange;
+    float:left;
+    width:70%;
+    height:100px;
+    font-size:13px;
 }
 .layout-1 aside{
     background-color:purple;
+    height:100px;
 }
 
 .layout-1 aside a{
     background-color:white;
+    width:30%;
+    display: inline-block;
+    text-align: center;
+
 }
 
+
 .layout-1 footer{
+    height:65px;
+
 }
 
 #topHeader2{
     background-color:red;
+    height:50px;
+    text-align:center;
+    font-size:20px;
 
 }
 .layout-2 nav{
     background-color:blue;
+    float:left;
+    height:100px;
 
 }
 
@@ -86,7 +110,6 @@ Mark as done or attach work to turn in
 
 #content{
     background-color:green;
-    height:20px;
 }
 
 .article2{
@@ -108,28 +131,46 @@ Mark as done or attach work to turn in
 }
 
 .layout-2 footer{
+    background-color:rgb(219, 203, 203);
 }
 
 .layout-3 header{
     background-color:red;
+    height:50px;
 }
 
 #sectionHeader3{
     background-color:blue;
+    float:left;
+    width:60%;
+    text-align:center;
 }
 
 .layout-3 nav{
     background-color:yellow;
+    float:left;
+    width:15%;
+    height:10px;
+    font-size:10px;
 }
 
 .layout-3 section{
     background-color:orange;
+    float:center;
 }
 
 .layout-3 aside{
     background-color:purple;
+    float:right;
+    height:10px;
 }
 
 #pageFooter{
     background-color:green;
+    height:15px;
+    font-size:10px;
+    text-align:center;
+    clear:right;
 }
+
+
